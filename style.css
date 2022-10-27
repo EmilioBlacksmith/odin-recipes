@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(207, 207, 207);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    align-items: center;
+    display: block;
+    width: 450px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 2px 2px 5px #707070;
+}
+
+h3{
+    font-weight: bold;
+    text-shadow: 2px 2px 5px #707070;
+}
